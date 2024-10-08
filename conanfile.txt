@@ -1,0 +1,7 @@
+[requires]
+fmt/9.1.0
+caf/1.0.0
+
+[generators]
+CMakeDeps
+CMakeToolchain

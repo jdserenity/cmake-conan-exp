@@ -1,0 +1,3 @@
+/Users/angelorg/Documents/Serenity Corporations/Coding/cmake-conan-exp/build/CMakeFiles/cmake-conan-exp.dir
+/Users/angelorg/Documents/Serenity Corporations/Coding/cmake-conan-exp/build/CMakeFiles/edit_cache.dir
+/Users/angelorg/Documents/Serenity Corporations/Coding/cmake-conan-exp/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+. "/Users/angelorg/Documents/Serenity Corporations/Coding/cmake-conan-exp/build/deactivate_conanbuildenv-release-armv8.sh"
